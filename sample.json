@@ -1,0 +1,44 @@
+[
+    {
+        "data": {
+            "id": 1,
+            "color": "blue",
+            "info": "{\"number\":\"1\", \"example\":\"0\"}"
+        }
+    },
+    {
+        "data": {
+            "id": 2,
+            "color": "blue",
+            "info": "{\"number\":\"2\", \"example\":\"0\"}"
+        }
+    },
+    {
+        "data": {
+            "id": 3,
+            "color": "blue",
+            "info": "{\"number\":\"3\", \"example\":\"0\"}"
+        }
+    },
+    {
+        "data": {
+            "id": 4,
+            "color": "blue",
+            "info": "{\"number\":\"4\", \"example\":\"0\"}"
+        }
+    },
+    {
+        "data": {
+            "id": "12",
+            "source": 1,
+            "target": 2
+        }
+    },
+    {
+        "data": {
+            "id": "13",
+            "source": 1,
+            "target": 3
+        }
+    }
+]
